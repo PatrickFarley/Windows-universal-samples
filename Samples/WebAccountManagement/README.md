@@ -33,10 +33,10 @@ To obtain information about Microsoft Visual Studio and the tools for developing
 ## Related topics
 
 Registration of application to use a Microsoft account:
-[Using Windows Live Services to personalize apps](https://msdn.microsoft.com/library/windows/apps/xaml/hh770854.aspx)
+[How to configure your App Service application to use Microsoft Account login](https://docs.microsoft.com/azure/app-service/app-service-mobile-how-to-configure-microsoft-authentication)
 
 Develop Windows Universal Apps with Azure AD and the Windows 10 Identity API:
-[Using WebAccountManager to Integrate with Azure AD](http://blogs.technet.com/b/ad/archive/2015/08/03/develop-windows-universal-apps-with-azure-ad-and-the-windows-10-identity-api.aspx)
+[How to configure your App Service application to use Azure Active Directory login](https://docs.microsoft.com/azure/app-service/app-service-mobile-how-to-configure-active-directory-authentication)
 
 Azure sample:
 [Universal Windows Platform app calling the directory Graph API](https://github.com/Azure-Samples/active-directory-dotnet-native-uwp-wam/tree/master/NativeClient-UWP-WAM/)
